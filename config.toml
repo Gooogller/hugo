@@ -1,4 +1,4 @@
-baseURL = "https://gooogller.github.io/"
+baseURL = "https://gooogller.github.io/hugo/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
@@ -1064,7 +1064,7 @@ defaultContentLanguage = "en"
         # HTML tag name of the highlight part in results
         highlightTag = "em"
         # whether to use the absolute URL based on the baseURL in search index
-        absoluteURL = false
+        absoluteURL = true
         [languages.fr.params.search.algolia]
           index = "index.fr"
           appID = "PASDMWALPK"
