@@ -3,7 +3,7 @@ baseURL = "https://gooogller.github.io/"
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "My New Hugo Site"
+title = "Cloudy"
 PublishDir = "docs"
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt-0.2.9"
@@ -56,7 +56,7 @@ enableEmoji = true
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
   # 公共 git 仓库路径，仅在 enableGitInfo 设为 true 时有效
-  gitRepo = "https://github.com/dillonzq/LoveIt"
+  gitRepo = "https://github.com/hasyshah"
   # which hash function used for SRI, when empty, no SRI is used ("sha256", "sha384", "sha512", "md5")
   # 哪种哈希函数用来 SRI, 为空时表示不使用 SRI ("sha256", "sha384", "sha512", "md5")
   fingerprint = ""
@@ -679,7 +679,7 @@ defaultContentLanguage = "en"
         rss = 10
         # Home page profile
         [languages.en.params.home.profile]
-          enable = true
+          enable = false
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
