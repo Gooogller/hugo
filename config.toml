@@ -629,7 +629,7 @@ defaultContentLanguage = "en"
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/dillonzq/LoveIt"
+        url = "https://github.com/hasyshah"
         title = "GitHub"
         weight = 6
 
@@ -677,7 +677,7 @@ defaultContentLanguage = "en"
       [languages.en.params.home]
         # amount of RSS pages
         rss = 10
-        # Home page profile
+        # Home page profile 
         [languages.en.params.home.profile]
           enable = false
           # Gravatar Email for preferred avatar in home page
@@ -830,7 +830,7 @@ defaultContentLanguage = "en"
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/dillonzq/LoveIt"
+        url = "https://github.com/hasyshah"
         title = "GitHub"
         weight = 6
     [languages.zh-cn.params]
@@ -1026,7 +1026,7 @@ defaultContentLanguage = "en"
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/dillonzq/LoveIt"
+        url = "https://github.com/hasyshah"
         title = "GitHub"
         weight = 6
     [languages.fr.params]
